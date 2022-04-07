@@ -1,0 +1,13 @@
+D:\BP201\DelegateCollection\DelegateCollection\bin\Debug\netcoreapp3.1\DelegateCollection.exe
+D:\BP201\DelegateCollection\DelegateCollection\bin\Debug\netcoreapp3.1\DelegateCollection.deps.json
+D:\BP201\DelegateCollection\DelegateCollection\bin\Debug\netcoreapp3.1\DelegateCollection.runtimeconfig.json
+D:\BP201\DelegateCollection\DelegateCollection\bin\Debug\netcoreapp3.1\DelegateCollection.runtimeconfig.dev.json
+D:\BP201\DelegateCollection\DelegateCollection\bin\Debug\netcoreapp3.1\DelegateCollection.dll
+D:\BP201\DelegateCollection\DelegateCollection\bin\Debug\netcoreapp3.1\DelegateCollection.pdb
+D:\BP201\DelegateCollection\DelegateCollection\obj\Debug\netcoreapp3.1\DelegateCollection.csprojAssemblyReference.cache
+D:\BP201\DelegateCollection\DelegateCollection\obj\Debug\netcoreapp3.1\DelegateCollection.AssemblyInfoInputs.cache
+D:\BP201\DelegateCollection\DelegateCollection\obj\Debug\netcoreapp3.1\DelegateCollection.AssemblyInfo.cs
+D:\BP201\DelegateCollection\DelegateCollection\obj\Debug\netcoreapp3.1\DelegateCollection.csproj.CoreCompileInputs.cache
+D:\BP201\DelegateCollection\DelegateCollection\obj\Debug\netcoreapp3.1\DelegateCollection.dll
+D:\BP201\DelegateCollection\DelegateCollection\obj\Debug\netcoreapp3.1\DelegateCollection.pdb
+D:\BP201\DelegateCollection\DelegateCollection\obj\Debug\netcoreapp3.1\DelegateCollection.genruntimeconfig.cache
